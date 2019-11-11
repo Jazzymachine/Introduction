@@ -1,0 +1,19 @@
+button {
+			border-radius: 12px;
+			padding: 14px 40px;
+			font-size: 16px;
+			color:  #FE2E64;
+			border: 2px solid #FE2E64;
+			text-align: center;
+		}		
+
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+
+h1 {
+	color: #FE2E64;
+	text-align: center;
+}

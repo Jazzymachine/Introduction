@@ -1,0 +1,51 @@
+<style>
+hr {
+   border-style: dotted;
+}
+
+h1 {
+	font-size: 25px ;
+	color : #DD0276 ;
+}
+
+h3 {
+	font-family: Oswald ;
+}
+
+h4 {
+	font-family: Source Code Pro ;
+	font-size: 14px;
+	color: #DD0276 ;
+	font-weight: bold;
+	display: inline-block;
+}
+
+img {
+	align-self: right ;
+	width : 140px ;
+	height : 215px ;  
+	border-radius: 25px ;
+}
+.tab1 { margin-left: 40px; }
+.tab2 { margin-left: 15px; 
+		margin-top: -15px;
+		}
+button {
+			border-radius: 12px;
+			padding: 14px 40px;
+			font-size: 16px;
+			color:  #FE2E64;
+			border: 2px solid #FE2E64;
+			text-align: center;
+		}		
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+
+</style>
+
