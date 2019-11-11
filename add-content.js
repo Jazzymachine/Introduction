@@ -5,11 +5,16 @@ function greeting() {
   if (time < 12) {
     return "<b>Good morning!</b>";
   }
-  if (time > 12) {
+  else if (time > 12 && time < 18) {
     return "<b>Good afternoon!</b>";
-  }  
+  }
+  else if (time > 18 && time < 24) {
+    return "<b>Good evening!</b>";
+  }    
 }
 
 
 document.write('<h1>' + greeting() + '</h1>')
+
+
 
