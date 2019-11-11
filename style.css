@@ -1,15 +1,25 @@
+body {
+font-family: Source Code Pro;
+font-size: 16px ; 
+border-style: solid ; 
+border-color: #DD0276 ; 
+border-radius: 25px ; 
+align-self: center;
+}
+
 button {
 			border-radius: 12px;
 			padding: 14px 40px;
 			font-size: 16px;
 			color:  #FE2E64;
-			border: 2px solid #FE2E64;
+			border: 2px;
+			border: solid;
 			text-align: center;
 		}		
 
 
 .button {
-    position: absolute;
+    position: relative;
     top: 50%;
 }
 
